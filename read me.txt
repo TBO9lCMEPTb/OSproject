@@ -1,0 +1,17 @@
+ONLY FOR LINUX USERS
+
+Create .themes .icons dont forget.
+You can choose any image for background.
+
+Download GNOME
+Delete XCFR (Default interface for LINUX)
+Install GTK theme
+Install icons
+Install cursor
+Install font and wallpapers
+Open tweaks and configure from yourself
+Download ulauncher and configuration
+https://ulauncher.io/
+Download glava
+https://gitlab.com/wild-turtles-publicly-release/glava/glava
+
